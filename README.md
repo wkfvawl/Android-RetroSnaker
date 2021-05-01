@@ -702,15 +702,17 @@ public class SnakeDBOpenHelper extends SQLiteOpenHelper {
 
 （1）游戏时
 
-![img](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml12508\wps2.jpg) 
+![img](https://github.com/wkfvawl/Android-RetroSnaker/blob/master/img/%E5%9B%BE%E7%89%872.png) 
 
  
 
-（1）游戏结束时，保存玩家
+（2）游戏结束时，保存玩家
 
-![img](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml12508\wps3.jpg) 
+![img](https://github.com/wkfvawl/Android-RetroSnaker/blob/master/img/%E5%9B%BE%E7%89%873.png) 
 
- 
+（3）查询排名
+
+![img](https://github.com/wkfvawl/Android-RetroSnaker/blob/master/img/%E5%9B%BE%E7%89%874.png) 
 
 通过对游戏软件的功能测试，控制测试和界面测试。对游戏的开始新游戏、退出和统计分数功能进行测试，并测试程序的键盘点击事件，结论是该游戏软件能正确实现功能要求。要求输出的效果与预期的输出效果完全一致。
 
